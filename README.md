@@ -163,11 +163,11 @@ Based on the original website, implement the following breakpoints:
 
 <br>
 
-![img](https://lh3.googleusercontent.com/7u7Zjpf4vujoqpqGRsld8ASS6RE_iyjqbQTojEIZwiGLePrlMsBmkbfRpgqub-1Dy-S6snysUUDuOulxMxinzoUNKSK7vzefz0cuVR9ecUS2jEaYFzYEeyY3RbMts4Nouipl9zZp)
+![example of breakpoints for pexels website](https://mau-jac.github.io/2W6-UI/wk10/assets/assign3-responsive.gif)
+
+
 
 <br>
-
-
 
 
 ## Bonus: card details on hover (+1%)
